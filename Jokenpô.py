@@ -1,5 +1,4 @@
 from random import randint
-
 perg = 'S'
 while perg.upper() == "S":
     itens = ('Pedra', 'Papel', 'Tesoura')
